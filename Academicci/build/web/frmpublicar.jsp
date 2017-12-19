@@ -98,7 +98,7 @@
                                 </ul>
                             </div>
                             <a class="menuitem" href="frmpublicar.jsp">Publicar</a>
-                            <a class="menuitem_red" href="candidatarmoniotia.jsp">Candidatar a Monitoria</a>
+                            <a class="menuitem_red" href="candidatarmonitoria.jsp">Candidatar a Monitoria</a>
 
                         </div>
 
